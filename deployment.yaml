@@ -20,6 +20,7 @@ spec:
       containers:
       - image: tmirtdockerhub/test:3
         name: flaskdemo
+        imagePullPolicy: Always
         resources: {}
 status: {}
 ---

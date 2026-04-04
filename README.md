@@ -151,10 +151,3 @@ Configure the ArgoCD Application to:
 | 🎯 Destination | Your target cluster namespace |
 | 🔄 Sync Policy | Automated (auto-deploy on every commit) |
 
----
-
-<div align="center">
-
-*Built and maintained by the TMIRT team · Security Training & Research*
-
-</div>

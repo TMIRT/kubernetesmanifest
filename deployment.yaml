@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: tmirtdockerhub/test:5
+      - image: tmirtdockerhub/test:6
         name: flaskdemo
         imagePullPolicy: Always
         resources: {}
